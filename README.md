@@ -32,7 +32,7 @@ chats with simple intent replies, and includes a built-in **calculator** (`calc 
 | Part | Pins | Notes |
 |---|---|---|
 | **MCUFRIEND 2.8" TFT** | 8-bit parallel (UNO shield pinout) | Uses `MCUFRIEND_kbv` |
-| **HC-05/HC-06 Bluetooth** | **Mega 2560:** Serial1 (TX1=18, RX1=19) | 9600 baud |
+| **HC-05 Bluetooth** | **Mega 2560:** Serial1 (TX1=18, RX1=19) | 9600 baud |
 
 ---
 
