@@ -37,7 +37,7 @@ and includes a built-in **calculator** (`calc <expr>`).
 
 ---
 
-## Libraries
+## Libraries Required
 
 Install via Arduino Library Manager:
 
