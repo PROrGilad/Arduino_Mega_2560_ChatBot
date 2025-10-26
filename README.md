@@ -1,6 +1,6 @@
 # Arduino Mega 2560 Bluetooth Chatbot
 
-A clean, minimal **Bluetooth Chatbot** UI for **Arduino Mega 2560** ,
+A clean, minimal **Bluetooth Chatbot** UI for **Arduino Mega 2560** , <br>
 chats with simple intent replies, 
 and includes a built-in **calculator** (`calc <expr>`).
 
