@@ -78,7 +78,7 @@ Install via Arduino Library Manager:
 
 | Description | Image |
 |--------------|--------|
-| **System Diagram** | ![Chatbot Diagram]](ChatBot_NoticeBoard_Circuit_Diagram.png) |
+| **System Diagram** | ![Chatbot Diagram](ChatBot_NoticeBoard_Circuit_Diagram.png) |
 | **Actual Build** | ![Actual Circuit](Arduino_ChatBot_Actual_Circuit.jpg)|
 
 ---
