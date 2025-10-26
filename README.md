@@ -51,7 +51,7 @@ Install via Arduino Library Manager:
 ## Setup
 
 1. Wire the **HC-05** to your board:
-   - **Mega 2560:** HC-05 TX → **TX1 (18)**, HC-05 RX → **RX1 (19)**
+   - **Mega 2560:** HC-05 TX → **TX1 (18)** , HC-05 RX → **RX1 (19)**
 2. Upload the sketch.
 3. Pair your phone with the HC-05 (PIN often `1234`/`0000`).
 4. Open **Arduino Bluetooth Control** → **Terminal**.
