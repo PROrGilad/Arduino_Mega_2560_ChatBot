@@ -83,9 +83,8 @@ Install via Arduino Library Manager:
 
 ---
 
-## Implementation Notes
+## Operation Summary
 
 - **UI rendering:** header + two message panes (`YOU:` / `Arduino Bot:`) with word-wrapping.  
 - **Parser:** lightweight recursive-descent for `+ - * / ^` with precedence, parentheses, `pi`, `e`.  
-- **Input buffering:** completes on newline **or** after `MSG_IDLE_TIMEOUT` (400 ms) of inactivity.  
-- **Serial selection:** `Serial1` on Mega; `SoftwareSerial` on D10/D11 for Uno/Nano.
+- **Input buffering:** completes on newline **or** after `MSG_IDLE_TIMEOUT` (400 ms) of inactivity. 
